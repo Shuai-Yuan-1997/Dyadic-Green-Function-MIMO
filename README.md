@@ -1,2 +1,1 @@
-# Codes-for-Electromagnetic-Information-Theory
-My PhD Thesis is "On the Electromagnetic Information Theory for MIMO Communications", I'm going to share the codes related to this thesis.
+This Matlab code calculates the vector channel matrix of a free-space MIMO communication system based on dyadic Green's function. With this code, it's easy to estimate the capacity or effective degree of freedom (EDOF) of a near-field MIMO communication system, especially the effects of polarizations.
