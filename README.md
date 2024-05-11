@@ -8,3 +8,7 @@ S. S. A. Yuan, Z. He, X. Chen, C. Huang, and W. E. I. Sha, “[Electromagnetic e
 
 ## MATLAB files
 vector_channel.m: Given the positions of transmitting and receiving antennas, this code calculates the vector channel matrix considering full-polarizations. Then, the effective degree of freedom (EDOF) or capacity of near-field MIMO communication systems can be estimated.
+
+## Other information
+Repository Author: Shuai S. A. Yuan
+Email: shuaiyuan1997@zju.edu.cn
