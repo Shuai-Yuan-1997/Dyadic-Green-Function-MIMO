@@ -1,6 +1,8 @@
 ## Dyadic_Green_Function_MIMO
 Free-space dyadic Green's function method for calculating the vector channel matrix of near-field MIMO communications.
 
+![License](https://img.shields.io/badge/license-GPL3.0-orange)
+[![Visits Badge](https://badges.strrl.dev/visits/Sha-Group/VIE_FFT)](https://github.com/Sha-Group/VIE_FFT)
 ## Publication
 S. S. A. Yuan, Z. He, X. Chen, C. Huang, and W. E. I. Sha, “[Electromagnetic effective degree of freedom of an MIMO system in free space](https://ieeexplore.ieee.org/document/9650519),” IEEE Antennas Wirel. Propag. Lett., vol. 21, no. 3, pp. 446-450, 2022.
 
