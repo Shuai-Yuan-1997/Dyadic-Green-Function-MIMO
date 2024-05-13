@@ -1,4 +1,4 @@
-# Dyadic_Green_Function_MIMO
+# Dyadic-Green-Function-MIMO
 Free-space dyadic Green's function method for calculating the vector channel matrix of near-field MIMO communications.
 
 ![License](https://img.shields.io/badge/license-GPL3.0-orange)
