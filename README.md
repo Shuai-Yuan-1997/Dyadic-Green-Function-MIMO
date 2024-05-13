@@ -11,4 +11,5 @@ vector_channel.m: Given the positions of transmitting and receiving antennas, th
 
 ## Other information
 Repository Author: Shuai S. A. Yuan
+
 Email: shuaiyuan1997@zju.edu.cn
